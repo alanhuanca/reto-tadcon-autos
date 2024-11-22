@@ -1,0 +1,125 @@
+{
+    "info": {
+        "name": "Clean Architecture Lambda API",
+        "description": "Colección de Postman para probar la API CRUD del modelo Auto.",
+        "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+    },
+    "item": [
+        {
+            "name": "Get All Autos",
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "https://localhost:5001/api/auto",
+                    "protocol": "https",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "5001",
+                    "path": [
+                        "api",
+                        "auto"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Get Auto by ID",
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "https://localhost:5001/api/auto/1",
+                    "protocol": "https",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "5001",
+                    "path": [
+                        "api",
+                        "auto",
+                        "1"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Create Auto",
+            "request": {
+                "method": "POST",
+                "header": [
+                    {
+                        "key": "Content-Type",
+                        "value": "application/json"
+                    }
+                ],
+                "body": {
+                    "mode": "raw",
+                    "raw": "{\"Marca\":\"Toyota\",\"Modelo\":\"Corolla\",\"Tipo\":\"Sedan\",\"CantidadAsientos\":5,\"AñoFabricacion\":2020}"
+                },
+                "url": {
+                    "raw": "https://localhost:5001/api/auto",
+                    "protocol": "https",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "5001",
+                    "path": [
+                        "api",
+                        "auto"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Update Auto",
+            "request": {
+                "method": "PUT",
+                "header": [
+                    {
+                        "key": "Content-Type",
+                        "value": "application/json"
+                    }
+                ],
+                "body": {
+                    "mode": "raw",
+                    "raw": "{\"Id\":1,\"Marca\":\"Toyota\",\"Modelo\":\"Corolla\",\"Tipo\":\"Sedan\",\"CantidadAsientos\":5,\"AñoFabricacion\":2021}"
+                },
+                "url": {
+                    "raw": "https://localhost:5001/api/auto/1",
+                    "protocol": "https",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "5001",
+                    "path": [
+                        "api",
+                        "auto",
+                        "1"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Delete Auto",
+            "request": {
+                "method": "DELETE",
+                "header": [],
+                "url": {
+                    "raw": "https://localhost:5001/api/auto/1",
+                    "protocol": "https",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "5001",
+                    "path": [
+                        "api",
+                        "auto",
+                        "1"
+                    ]
+                }
+            }
+        }
+    ]
+}
