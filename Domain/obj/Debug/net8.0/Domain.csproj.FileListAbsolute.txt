@@ -1,0 +1,11 @@
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Domain\bin\Debug\net8.0\Domain.dll
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Domain\obj\Debug\net8.0\Domain.dll
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Domain\obj\Debug\net8.0\ref\Domain.dll

@@ -1,0 +1,17 @@
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Infrastructure\bin\Debug\net8.0\Application.dll
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Infrastructure\bin\Debug\net8.0\Application.pdb
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

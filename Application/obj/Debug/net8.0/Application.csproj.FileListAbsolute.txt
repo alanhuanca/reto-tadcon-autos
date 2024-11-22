@@ -1,0 +1,15 @@
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Application\bin\Debug\net8.0\Application.deps.json
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Application\bin\Debug\net8.0\Application.dll
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Application\bin\Debug\net8.0\Application.pdb
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Application\bin\Debug\net8.0\Domain.dll
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Application\bin\Debug\net8.0\Domain.pdb
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Application\obj\Debug\net8.0\Application.dll
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Application\obj\Debug\net8.0\Application.pdb
+C:\Retos Tecnicos\TadCon\CleanArchitectureLambda\Application\obj\Debug\net8.0\ref\Application.dll

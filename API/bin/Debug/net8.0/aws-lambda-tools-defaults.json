@@ -1,0 +1,17 @@
+{
+  "Information": [
+    "This file is used to configure the AWS Lambda .NET Core deployment.",
+    "For more information see https://github.com/aws/aws-lambda-dotnet"
+  ],
+  "profile": "default",
+  "region": "us-east-1",
+  "configuration": "Release",
+  "framework": "net8.0",
+  "function-runtime": "dotnet8",
+  "function-memory-size": 256,
+  "function-timeout": 30,
+  "function-handler": "API::API.LambdaEntryPoint::FunctionHandlerAsync",
+  "function-name": "CleanArchitectureLambda",
+  "package-type": "Zip",
+  "function-role": "arn:aws:iam::123456789012:role/lambda_exec_role"
+}

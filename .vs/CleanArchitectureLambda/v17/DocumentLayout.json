@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Retos Tecnicos\\TadCon\\CleanArchitectureLambda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C05A84-2FB8-459A-A539-663D8529DAE3}|Domain\\Domain.csproj|c:\\retos tecnicos\\tadcon\\cleanarchitecturelambda\\domain\\entities\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C05A84-2FB8-459A-A539-663D8529DAE3}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EFFA84-41E9-4E51-BA98-35B15E5B0C13}|API\\API.csproj|c:\\retos tecnicos\\tadcon\\cleanarchitecturelambda\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EFFA84-41E9-4E51-BA98-35B15E5B0C13}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EFFA84-41E9-4E51-BA98-35B15E5B0C13}|API\\API.csproj|c:\\retos tecnicos\\tadcon\\cleanarchitecturelambda\\api\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EFFA84-41E9-4E51-BA98-35B15E5B0C13}|API\\API.csproj|solutionrelative:api\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70CB6B14-EBE7-484A-BB5A-FA62F65B944A}|Infrastructure\\Infrastructure.csproj|c:\\retos tecnicos\\tadcon\\cleanarchitecturelambda\\infrastructure\\data\\autodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70CB6B14-EBE7-484A-BB5A-FA62F65B944A}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\autodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Retos Tecnicos\\TadCon\\CleanArchitectureLambda\\Domain\\Entities\\Auto.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Auto.cs",
+              "ToolTip": "C:\\Retos Tecnicos\\TadCon\\CleanArchitectureLambda\\Domain\\Entities\\Auto.cs",
+              "RelativeToolTip": "Domain\\Entities\\Auto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:21:33.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Retos Tecnicos\\TadCon\\CleanArchitectureLambda\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Retos Tecnicos\\TadCon\\CleanArchitectureLambda\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAYwCkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:15:06.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Retos Tecnicos\\TadCon\\CleanArchitectureLambda\\API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Retos Tecnicos\\TadCon\\CleanArchitectureLambda\\API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:15:46.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutoDbContext.cs",
+              "DocumentMoniker": "C:\\Retos Tecnicos\\TadCon\\CleanArchitectureLambda\\Infrastructure\\Data\\AutoDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\AutoDbContext.cs",
+              "ToolTip": "C:\\Retos Tecnicos\\TadCon\\CleanArchitectureLambda\\Infrastructure\\Data\\AutoDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\AutoDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:12:15.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1006,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 991,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
